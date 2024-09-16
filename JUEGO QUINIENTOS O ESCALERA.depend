@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\nico\desktop\tp clase kloster\juego quinientos o escalera\main.cpp
+	<iostream>
+
+1686893882 source:c:\users\nico\desktop\quinientos o escalera\juego quinientos o escalera\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1686921321 c:\users\nico\desktop\quinientos o escalera\juego quinientos o escalera\funciones.h
+
+1571569938 c:\users\nico\desktop\quinientos o escalera\juego quinientos o escalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686922825 source:c:\users\nico\desktop\quinientos o escalera\juego quinientos o escalera\juego2.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1686921470 source:c:\users\nico\desktop\quinientos o escalera\juego quinientos o escalera\juego1.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1686924112 source:c:\users\nico\desktop\quinientos o escalera\juego quinientos o escalera\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1686924112 source:c:\users\marti\onedrive\escritorio\juego quinientos o escalera\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1571569938 c:\users\marti\onedrive\escritorio\juego quinientos o escalera\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686921321 c:\users\marti\onedrive\escritorio\juego quinientos o escalera\funciones.h
+
+1686924252 source:c:\users\marti\onedrive\escritorio\juego quinientos o escalera\juego1.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1686922825 source:c:\users\marti\onedrive\escritorio\juego quinientos o escalera\juego2.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1686893882 source:c:\users\marti\onedrive\escritorio\juego quinientos o escalera\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
